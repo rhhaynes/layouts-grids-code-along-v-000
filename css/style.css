@@ -6,4 +6,6 @@ img, video, audio, iframe, table, form {
 }
 
 /*/////// MEDIA ////////*/
-
+.row {
+  margin-bottom: 20px;
+}
